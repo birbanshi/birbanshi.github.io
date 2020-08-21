@@ -1,0 +1,11 @@
+body {
+    margin: 10px;
+    background-color: rgb(148, 241, 241);
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+    color: gray;
+}
